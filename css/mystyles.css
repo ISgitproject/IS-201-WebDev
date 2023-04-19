@@ -1,0 +1,53 @@
+ul{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+
+li {
+  color: black;
+  
+}
+
+
+.homebg{
+  background-image:url(../assets/img/flowers&brit.jpg) ;
+ background-repeat: no-repeat;
+  background-position: top center ; 
+  background-size: 1200px;
+ 
+}
+
+.common {
+    position: absolute;
+    left: 48px;
+    bottom: 30px;
+    top: 120px;
+    color: rgb(0, 0, 0);
+    font-family:Georgia, 'Times New Roman', Times, serif
+    
+  }
+
+
+h1{
+  
+  font-family: Georgia, 'Times New Roman', Times, serif;
+ position: center;
+  text-decoration: underline;
+  color: rgb(25, 81, 43);
+
+}
+
+h2 {
+  color: rgb(25, 81, 43);
+  position: absolute; nav-down: auto;
+  
+}
+
+.nav-item
+{
+  color: black;
+}
+
+.navlink{
+  color: black;
+}
